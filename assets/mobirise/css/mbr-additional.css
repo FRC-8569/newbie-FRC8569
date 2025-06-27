@@ -1410,7 +1410,7 @@ a {
   text-align: left;
 }
 .cid-uP8NmikhTt {
-  padding-top: 8rem;
+  padding-top: 2rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
@@ -1440,11 +1440,11 @@ a {
   width: 3.5rem;
 }
 .cid-uP8NmikhTt .number-wrap {
-  color: #9fe870;
+  color: #000000;
   text-align: center;
 }
 .cid-uP8NmikhTt .number {
-  color: #9fe870;
+  color: #1b52c7;
 }
 .cid-uP8NmikhTt .period {
   display: block;
@@ -1470,7 +1470,7 @@ a {
 }
 .cid-uP8NmikhTt .icons-menu .soc-item a:hover .mbr-iconfont,
 .cid-uP8NmikhTt .icons-menu .soc-item a:focus .mbr-iconfont {
-  background-color: #9fe870;
+  background-color: #000000;
 }
 .cid-uP8NmikhTt .icons-menu .soc-item a .mbr-iconfont {
   display: flex;
